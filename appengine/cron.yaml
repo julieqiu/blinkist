@@ -1,0 +1,4 @@
+cron:
+    - description: "Sunday Blinkist Email"
+      url: /sunday
+      schedule: every sunday 02:00
